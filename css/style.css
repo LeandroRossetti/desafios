@@ -1,0 +1,29 @@
+.pointer{
+    cursor: pointer;
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.row{
+    display:block;
+    padding: 5px;
+ 
+}
+
+.column{
+    flex: 25%;
+    padding: 5px;
+    
+}
+
+.column img{
+    margin-top:5px
+
+}
+
